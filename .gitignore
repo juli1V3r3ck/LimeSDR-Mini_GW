@@ -67,3 +67,9 @@ wspace_nios2/
 wspace_nios
 workspace
 source_library/
+
+#--------------
+# software eclipse folders
+#--------------
+/LimeSDR-Mini_lms7_trx/software/.metadata/
+/LimeSDR-Mini_lms7_trx/software/RemoteSystemsTempFiles/
